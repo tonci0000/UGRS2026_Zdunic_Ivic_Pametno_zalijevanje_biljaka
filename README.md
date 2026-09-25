@@ -1,0 +1,2 @@
+# UGRS2026_Zdunic_Ivic_Pametno_zalijevanje_biljaka
+Projektni kod
